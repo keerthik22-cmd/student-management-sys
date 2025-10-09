@@ -24,20 +24,9 @@ This is a basic Student Management System implemented using JavaScript with arra
 - Search: Finds specific student(s) matching a search query (e.g., name).	filter() or find()
 - Filter: Creates a new array with students that meet specific criteria (e.g., grade 'A').	filter()
 
-## Export to Sheets
-📝 Student Data Structure
-Each student is represented as an object with the following example properties:
-
-JavaScript:
-{
-  id: Number,         // Unique identifier
-  name: String,       // Full name of the student
-  grade: String,      // Current grade (e.g., 'A', 'B', 'C')
-  course: String,     // Enrolled course
-  // ... other relevant properties
-}
 💡 How to Run (Conceptual)
 - This system is generally intended to be run in a JavaScript environment (e.g., Node.js console application or a web browser's console/front-end).
 - Clone the repository (if applicable).
 - Open the relevant JavaScript file (script.js or similar).
+
 - Execute the functions (e.g., addStudent(), viewStudents(), searchStudents('John')) to interact with the system.
