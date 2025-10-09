@@ -28,5 +28,4 @@ This is a basic Student Management System implemented using JavaScript with arra
 - This system is generally intended to be run in a JavaScript environment (e.g., Node.js console application or a web browser's console/front-end).
 - Clone the repository (if applicable).
 - Open the relevant JavaScript file (script.js or similar).
-
 - Execute the functions (e.g., addStudent(), viewStudents(), searchStudents('John')) to interact with the system.
